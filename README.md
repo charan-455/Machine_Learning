@@ -1,2 +1,10 @@
 # Machine_Learning
-ML on different datasets
+Supervised Learning
+    * 
+    *
+    *
+    *
+Unsupervised Learning
+    *
+    *
+    *
